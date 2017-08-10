@@ -40,6 +40,32 @@ captures/
 .idea/dictionaries
 .idea/libraries
 
+
+
+.gradle
+
+/local.properties
+
+/.idea/workspace.xml
+
+/.idea/libraries
+
+.DS_Store
+
+/build
+
+/captures
+
+/.idea
+
+.externalNativeBuild
+
+
+
+.idea/
+
+
+
 # Keystore files
 *.jks
 
